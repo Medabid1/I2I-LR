@@ -16,11 +16,11 @@ Generated images on CelebA-HQ :
 
 Trained on CelebA-HQ and Tested on LR target from the internet :
 
-<p align="left"><img width="95%" src="imgs/pol_lr.png" /></p>
+<p align="left"><img width="50%" src="imgs/pol_lr.png" /></p>
 
 Trained on CelebA-HQ and tested with source image from the internet:
 
-<p align="left"><img width="95%" src="imgs/Pol2.png" /></p>
+<p align="left"><img width="50%" src="imgs/Pol2.png" /></p>
 
 
 ## Dependecies
